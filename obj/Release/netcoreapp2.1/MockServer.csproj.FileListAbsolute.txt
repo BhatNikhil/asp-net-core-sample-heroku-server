@@ -1,0 +1,15 @@
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\bin\Release\netcoreapp2.1\MockServer.deps.json
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\bin\Release\netcoreapp2.1\MockServer.runtimeconfig.json
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\bin\Release\netcoreapp2.1\MockServer.runtimeconfig.dev.json
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\bin\Release\netcoreapp2.1\MockServer.dll
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\bin\Release\netcoreapp2.1\MockServer.pdb
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\obj\Release\netcoreapp2.1\MockServer.csproj.CoreCompileInputs.cache
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\obj\Release\netcoreapp2.1\MockServer.RazorAssemblyInfo.cache
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\obj\Release\netcoreapp2.1\MockServer.RazorAssemblyInfo.cs
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\obj\Release\netcoreapp2.1\MockServer.AssemblyInfoInputs.cache
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\obj\Release\netcoreapp2.1\MockServer.AssemblyInfo.cs
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\obj\Release\netcoreapp2.1\MockServer.RazorTargetAssemblyInfo.cache
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\obj\Release\netcoreapp2.1\MockServer.dll
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\obj\Release\netcoreapp2.1\MockServer.pdb
+C:\Users\nbhat\OneDrive\Documents\source\Software Engineering\Project\mock-server\MockServer\MockServer\obj\Release\netcoreapp2.1\MockServer.csprojAssemblyReference.cache
