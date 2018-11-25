@@ -1,4 +1,4 @@
-# AspNetCoreSampleServer
+# ASP.NET Core Sample Server
 Sample AspNetCore Project, Dockerized and Connected to Heroku
 
 __Points to remember:__  
