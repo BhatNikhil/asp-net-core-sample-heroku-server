@@ -11,9 +11,10 @@ __Instructions to Deploy the Docker instance on Heroku:__
 4. Cmd: heroku login  
 5. Cmd: heroku container:login  
 6. Cmd: docker build -t <image-name> .  
-7. Cmd: docker tag <image-name> registry.heroku.com/{heroku-app-name}/web  
-8. Cmd: docker push registry.heroku.com/{heroku-app-name}/web  
-9. Cmd: heroku container:release web -a <heroku-app-name>  
+7. If heroku app is not created already, use: heroku create {heroku-app-name}
+8. Cmd: docker tag <image-name> registry.heroku.com/{heroku-app-name}/web  
+9. Cmd: docker push registry.heroku.com/{heroku-app-name}/web  
+10.Cmd: heroku container:release web -a <heroku-app-name>  
   
 __References:__  
 * Major Reference: https://dotnetthoughts.net/hosting-aspnet-core-applications-on-heroku-using-docker/  
